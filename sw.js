@@ -1,7 +1,7 @@
 /* 321提摩太前書講義 · Service Worker（離線可用）
    版本字串在每次 make_site.py 重新打包時都會變，
    一變就會清掉舊快取、重新抓一份新的，使用者不必手動清除。 */
-const V = '提摩太前書-2b39ae16c822-tri10180535';
+const V = '提摩太前書-2b39ae16c822-tri10180535-gxs1019';
 const SHELL = [
   './', './index.html', './manifest.webmanifest',
   './icon-192.png', './icon-512.png',
